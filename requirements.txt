@@ -1,0 +1,9 @@
+torch
+torchvision
+torchinfo
+notebook
+pillow
+matplotlib
+seaborn
+tqdm
+numpy==1.26.4
