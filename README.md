@@ -7,10 +7,10 @@ The main start point is to create an environment, in this example, the target is
 
 2. Restart Windows
 
-3. Open app "Anaconda Prompt" in Windows
+3. Open app "Anaconda Prompt" in Windows and run the following commands:
 
-4. Create an environment: ```conda create -n CATDOGS python=3.12```
+   1. Create an environment: ```conda create -n CATDOGS python=3.12```
    
-5. Activate environment ```activate CATDOGS```
+   2. Activate environment ```activate CATDOGS```
 
-6. Clone this repository in the folder that you wish, ```pip install -r requirements.txt```
+   3. Clone this repository in the folder that you wish, ```pip install -r requirements.txt```
