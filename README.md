@@ -1,5 +1,5 @@
 # cat_dog_pytorch
-This is a mirror solution of popular cat and dog classification using PyTorch updated on 2025. The reference was taken from Kaggle. The purpose of this repository is to set a friendly reference for new comers. The reference may be accessed from this [link].(https://www.kaggle.com/code/tirendazacademy/cats-dogs-classification-with-pytorch)
+This is a mirror solution of popular cat and dog classification using PyTorch updated on 2025. The reference was taken from Kaggle. The purpose of this repository is to set a friendly reference for new comers. The reference may be accessed from this [link](https://www.kaggle.com/code/tirendazacademy/cats-dogs-classification-with-pytorch).
 
 # Dataset
 The dataset maybe downloaded from the following source  [CatDogsDataset](https://www.kaggle.com/datasets/tongpython/cat-and-dog?resource=download-directory).
