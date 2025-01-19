@@ -3,14 +3,14 @@ This is a mirror solution of popular cat and dog classification using PyTorch up
 # Setting Environment in Windows
 The main start point is to create an environment, in this example, the target is to use miniconda.
 1. follow this instructions to install miniconda:
-(Miniconda Installation Procedure)[https://docs.anaconda.com/miniconda/install/#quick-command-line-install]
+[Miniconda Installation Procedure](https://docs.anaconda.com/miniconda/install/#quick-command-line-install)
 
-2. Restart
+2. Restart Windows
 
-3. Open app "Anaconda Prompt"
+3. Open app "Anaconda Prompt" in Windows
 
-4. Create an environment: "conda create -n CATDOGS python=3.12"
+4. Create an environment: ```conda create -n CATDOGS python=3.12```
+   
+5. Activate environment ```activate CATDOGS```
 
-5. Activate environment "activate CATDOGS"
-
-6. install the following libraries with pip
+6. Clone this repository in the folder that you wish, ```pip install -r requirements.txt```
